@@ -10,7 +10,7 @@ Welcome to the _Comprehensive guide to writing blogposts_ for the anoma blog.
     * [What are blogposts?](#What-are-blogposts?) 
       * [Types of Blogposts](#Types-of-Blogposts)
       * [Difference between a blogpost and formal communication](#Difference-between-a-blogpost-and-formal-communication)
-    * [Methods and techniques for writing blogposts](Methods-and-techniques-for-writing-blogposts) 
+    * [Methods and techniques for writing blogposts](#Methods-and-techniques-for-writing-blogposts) 
       * [Steps to success](#Steps-to-success)
     * [Best Practices for well written blogposts](#Best-Practices-for-well-written-blogposts)
       * [Navigating the Process](#Navigating-the-Process)
