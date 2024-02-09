@@ -10,7 +10,7 @@ Welcome to the _Comprehensive guide to writing blogposts_ for the anoma blog.
     * [What are blogposts?](#What-are-blogposts?) 
       * [Types of Blogposts](#Types-of-Blogposts)
       * [Difference between a blogpost and formal communication](#Difference-between-a-blogpost-and-formal-communication)
-    * [Methods and techniques for writing blogposts: the steps to success](Methods-and-techniques-for-writing-blogposts:-the-steps-to-success) 
+    * [Methods and techniques for writing blogposts](Methods-and-techniques-for-writing-blogposts) 
       * [Steps to success](#Steps-to-success)
     * [Best Practices for well written blogposts](#Best-Practices-for-well-written-blogposts)
       * [Navigating the Process](#Navigating-the-Process)
@@ -90,7 +90,7 @@ On the other hand, if the post is targeted at "the Ethereum research community" 
 ![image](https://github.com/anoma/anoma-blog-writing-guide.github.io/assets/116141134/bd0f7562-6e75-47db-a7f9-0f304a8a7e33)
 
 
-## Methods and techniques for writing blogposts: the steps to success
+## Methods and techniques for writing blogposts
 
 There are several techniques for writing effective blogposts. Each author may have slightly different approaches. In general, there are common themes that all good methods or techniques share. Let's discuss the steps to success. 
 
