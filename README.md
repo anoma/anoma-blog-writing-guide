@@ -14,7 +14,7 @@ Welcome to the _Comprehensive guide to writing blogposts_ for the anoma blog.
       * [Steps to success](#Steps-to-success)
     * [Best Practices for well written blogposts](#Best-Practices-for-well-written-blogposts)
       * [Navigating the Process](#Navigating-the-Process)
-    * [Conclusion: Publish effective blogposts](#Conclusion:-Publish-effective-blogposts)
+    * [Publish effective blogposts](#Publish-effective-blogposts)
     * [References](#References)
     * [Future Improvements](#Future-Improvements)
 
@@ -170,7 +170,7 @@ Unfortunately, when writing a blogpost sometimes the author "gets stuck", meanin
 - **Leverage your creativity**. When you are in a good writing flow, extend it. At times, you may find that you can accomplish a good deal with consistent focus over a four to eight-hour window.
 - **Ask for help**. If you get stuck, talk to a friend or colleague who has the relevant knowledge to help. 
 
-## Conclusion: Publish effective blogposts
+## Publish effective blogposts
 
 In our guide we provided a comprehensive overview of how to write an effective blogpost. First we defined what blogposts are spending time discussing the different types of blogposts. Next we thoroughly examined the steps to success, pipelining from idea to publication. Thereafter, we discussed best practices, navigating the writing process, and how to overcome writer's block. Indeed, I hope this guide is helpful for future blogpost authors who wish to publish on the Anoma blog. 
 
