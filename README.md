@@ -1,6 +1,6 @@
 # anoma-blog-writing-guide.github.io
 
-Welcome to the _[Comprehensive guide to writing blogposts](anoma.github.io/anoma-blog-writing-guide.github.io)_ for the anoma blog. 
+Welcome to the _[Comprehensive guide to writing blogposts](https://anoma.github.io/anoma-blog-writing-guide.github.io/)_ for the anoma blog. 
 
 # Table of Contents (TOC)
 * [Table of Contents (TOC)](#Table-of-contents-(TOC))  
