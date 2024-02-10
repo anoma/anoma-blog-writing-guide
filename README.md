@@ -81,9 +81,7 @@ Blogposts need not be formal. They can use both colloquial and formal language. 
 The goal of the blogpost is to connect with your target audience first and foremost. If your target audience is academic for example, you may choose to include LaTex or code blocks to support your argument and speak to this reader. For example, here is a function written in LaTex from *Logic Programming with Differential Equations*
 
 $$
-
 V(x) = x^2 (x - 1)^2
-
 $$
 
 
