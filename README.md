@@ -22,7 +22,7 @@ Welcome to the _[Comprehensive guide to writing blogposts](https://anoma.github.
 
 Thank you to @graphomath and @cwgoes for early feedback, discussion and review. 
 
-To all please provide reveiw and / or write [feedback](https://research.anoma.net/t/the-comprehensive-guide-to-writing-blogposts/471). Once feedback is collected, adjustments will be made. See Future improvements below.
+Please provide [feedback](https://research.anoma.net/t/the-comprehensive-guide-to-writing-blogposts/471). Once feedback is collected, adjustments will be made. See Future improvements below.
 
 # The comprehensive guide to writing blogposts
 Blogposts are important for communicating research ideas to different sets of target audiences. In this article, you'll learn how to write an effective blogpost and help your reader get the most out of their experience. **Blogposts help us communicate research**. They provide an opportunity to share our work in a legible yet digestible format for the community of academics, researchers, builders, engineers, hobbyists, etc. that are interested in our ideas. 
