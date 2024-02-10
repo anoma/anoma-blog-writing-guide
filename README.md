@@ -162,6 +162,7 @@ There are several techniques for writing effective blogposts. Each author may ha
 - **Explain your writing to a friend.** Often in casual conversation, if you attempt to explain your writing to friends, you'll encounter inconsistencies in your argument and or holes in your thinking. 
 
 - **Be humble**. Many blogposts never see the light of day. It's okay to work on a blogpost and receive critical feedback. The feedback will help you grow and get better as a writer. While writing can be a highly personal process, feedback is not - it's specific to how your writing can be improved to achieve the level it needs for publication and distribution. 
+
 ### Getting unstuck: overcoming writer's block
 
 Unfortunately, when writing a blogpost sometimes the author "gets stuck", meaning they struggle to progress. This is also known as a mild form of Writer's block - a condition in which an author is either unable to produce new work or experiences a creative slowdown. Writer's block has various degrees of severity, from difficulty in coming up with original ideas to being unable to produce work for years. The best way to overcome this is; 
