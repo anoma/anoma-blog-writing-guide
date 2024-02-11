@@ -78,10 +78,10 @@ Blogposts need not be formal. They can use both colloquial and formal language. 
 
 > Intents can be understood colloquially as _commitments to user preferences over the state space_ and mathematically as _atomic information flow constraints_.
 
-The goal of the blogpost is to connect with your target audience first and foremost. If your target audience is academic for example, you may choose to include LaTex or code blocks to support your argument and speak to this reader. For example, here is a function written in LaTex from *Logic Programming with Differential Equations*
+The goal of the blogpost is to connect with your target audience first and foremost. If your target audience is academic for example, you may choose to include LaTex or code blocks to support your argument and speak to this reader. For example, here is a function written in LaTex ($V(x) = x^2 (x - 1)^2$) from *Logic Programming with Differential Equations*
 
 
-\[V(x) = x^2 (x - 1)^2\]
+![image](https://hackmd.io/_uploads/rknf4TLia.png)
 
 
 On the other hand, if the post is targeted at "the Ethereum research community" you may also include relevant memes and or diagrams to convey your message, for example from the *Towards an intent-centric topology*;
