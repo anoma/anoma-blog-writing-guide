@@ -87,7 +87,7 @@ $V(x) = x^2 (x - 1)^2$
 
 On the other hand, if the post is targeted at "the Ethereum research community" you may also include relevant memes and or diagrams to convey your message, for example from the *Towards an intent-centric topology*;
 
-![image](https://github.com/anoma/anoma-blog-writing-guide.github.io/assets/116141134/bd0f7562-6e75-47db-a7f9-0f304a8a7e33)
+![image](https://hackmd.io/_uploads/HJvDkgmi6.png)
 
 
 ## Methods and techniques for writing blogposts
