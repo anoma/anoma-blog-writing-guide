@@ -1,6 +1,10 @@
 # anoma-blog-writing-guide
 
-Welcome to the _Comprehensive guide to writing blogposts_ for the anoma blog. 
+## tl:dr
+- Welcome to the _Comprehensive guide to writing blogposts_ for the anoma blog. 
+- In this post we'll reveiw how to write a blogpost for the anoma blog. 
+- We reveiw what blogposts are, types of blogposts and discuss how they differ from formal communciation.
+- Methods, steps to succuss, and navigating the blogpost writing process are explained in detail.
 
 # Table of Contents (TOC)
 * [Table of Contents (TOC)](#table-of-contents-(toc))  
